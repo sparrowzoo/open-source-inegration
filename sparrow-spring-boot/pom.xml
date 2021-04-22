@@ -17,7 +17,7 @@
         <guava.version>19.0</guava.version>
         <common.version>2.6</common.version>
         <mybatis-spring.version>1.2.2</mybatis-spring.version>
-        <mybatis.version>3.2.8</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         <druid.version>1.1.10</druid.version>
 
         <hystrix-metrics-event-stream.version>1.5.12</hystrix-metrics-event-stream.version>
