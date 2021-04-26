@@ -15,7 +15,7 @@
         <fastjson.version>1.2.58</fastjson.version>
         <lombok.version>1.14.8</lombok.version>
         <guava.version>19.0</guava.version>
-        <common.version>2.6</common.version>
+        <common.version>2.7</common.version>
         <mybatis-spring.version>1.2.2</mybatis-spring.version>
         <mybatis.version>3.2.8</mybatis.version>
         <druid.version>1.1.10</druid.version>
