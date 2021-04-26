@@ -19,7 +19,7 @@
         <commons-codec.version>1.12-SNAPSHOT</commons-codec.version>
         <mybatis.version>3.5.0-SNAPSHOT</mybatis.version>
         <mybatis.spring.version>2.0.0-SNAPSHOT</mybatis.spring.version>
-        <commons-io.version>2.7-SNAPSHOT</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <jedis.version>3.0.0-SNAPSHOT</jedis.version>
         <alibaba.druid.version>1.1.7</alibaba.druid.version>
         <fast-json.version>1.2.46-SNAPSHOT</fast-json.version>
